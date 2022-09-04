@@ -5,6 +5,11 @@
       <map>
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProjectJavaApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProjectJavaApp/app/src/main/res/layout/activity_new.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProjectJavaApp/app/src/main/res/layout/activity_register.xml" value="0.24230072463768115" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProjectJavaApp/app/src/main/res/layout/activity_tabs.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProjectJavaApp/app/src/main/res/layout/fragment_fragmento_location.xml" value="0.264" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProjectJavaApp/app/src/main/res/layout/fragment_fragmento_usuario.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProjectJavaApp/app/src/main/res/layout/fragment_tabs.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/ProjectJavaApp/app/src/main/res/layout/user_log.xml" value="0.1852355072463768" />
       </map>
     </option>
