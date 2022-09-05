@@ -20,5 +20,9 @@
     <string name="txt_btRegistrarse">Registrarme</string>
     <string name="modulo_registro">Registrarse en el sistema</string>
     <string name="modulo_inicio">Ingresa al sistema</string>
+    <string name="txt_latutud">Latitud</string>
+    <string name="txt_longitud">Longitud</string>
+    <string name="txt_coordenada">Obtener coordenadas</string>
+    <string name="txt_verubi">Ver mi ubicación</string>
 
 </resources>

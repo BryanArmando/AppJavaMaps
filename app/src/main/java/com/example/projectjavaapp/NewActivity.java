@@ -28,7 +28,7 @@ public class NewActivity extends AppCompatActivity {
     //método para redirigir a los tabs
 
     public void IniciarSesion(View view){
-        Intent iniciar = new Intent(this, TabsActivity.class);
+        Intent iniciar = new Intent(this, GeolocActivity.class);
         startActivity(iniciar);
     }
 

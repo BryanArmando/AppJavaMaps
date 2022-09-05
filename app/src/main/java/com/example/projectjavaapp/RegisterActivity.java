@@ -22,7 +22,7 @@ public class RegisterActivity extends AppCompatActivity {
     }
 
     public void IrTabs(View view){
-        Intent iniciarTabs = new Intent(this, TabsActivity.class);
+        Intent iniciarTabs = new Intent(this, GeolocActivity.class);
         startActivity(iniciarTabs);
     }
 }
